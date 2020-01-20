@@ -1,4 +1,4 @@
 # hello-world
-just another repository
-just have saved one experiment.
+just another repository.
+There just have saved one experiment.
 
